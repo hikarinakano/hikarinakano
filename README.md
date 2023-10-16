@@ -1,6 +1,34 @@
 <h2>Hello, I'm Irina Shersheyeva!</h2>
-<p><em>Frontend developer student at <a href="https://ru.hexlet.io/">Hexlet programming learning platform</a></em></p>
-[![Linkedin: IrinaShersheyeva](https://img.shields.io/badge/-irinashersheyeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irina-shersheyeva-82739b273/)]
-[![GitHub hikarinakano](https://img.shields.io/github/followers/hikarinakano?label=follow&style=social)](https://github.com/hikarinakano)
+<p><em>I'm a passionate Frontend developer student at <a href="https://ru.hexlet.io/">Hexlet programming learning platform</a></em></p>
+<h3>My projects:</h3>
+<p><em><a href ="https://github.com/hikarinakano/frontend-project-44">Brain Games</a></em></p>
 
+```javascript
+const BrainGames = {
+  techStack: [JS, CodeClimate, Git, Github, npm, readline-sync],
+  challengingPart: "First serious project for a newcomer, was hard to understand many technologies at once"
+}
+```
+<p><em><a href="https://github.com/hikarinakano/frontend-project-46">GenDiff app</a></em></p>
+
+```javascript
+const GenDiff = {
+  techStack: [JS, CodeClimate, Git, Github, npm, CI, Jest, _.lodash],
+  challengingPart: "Many of them, but doing the project was a big wictory for me!",
+}
+```
+<h2>Little more about me:</h2>
+
+```javascript
+const irina = {
+  code: [Javascript, Typescript, HTML, CSS, Elixir, PostgresQL],
+  tools: [Linux/Ubuntu, React, Node, CI, vercel, Jest, npm],
+  education: { 
+    "Frontend Development as Profession on Hexlet online learning platform": [2022, "present"],
+    "Bachelor’s Degree on Environmental Engineering, Pskov State University": [2014, 2018],
+  },
+  techCommunities: { participant: "Reclaim the internet with Mozilla", },
+  languages: [Russian, English, German],
+}
+```
 
