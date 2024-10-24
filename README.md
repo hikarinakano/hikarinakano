@@ -17,6 +17,13 @@ const GenDiff = {
   challengingPart: "Many of them, but doing the project was a big wictory for me!",
 }
 ```
+```javascript
+const RssFeed = {
+  techStack: [JS, CodeClimate, Git, Github, npm, CI, _.lodash, axios, on-change],
+  challengingPart: "Understanding the asyncronous nature of Javascript, basics of MVC system and handling errors in a user-friendly way. Big milestone for me",
+}
+```
+
 <h2>Little more about me:</h2>
 
 ```javascript
