@@ -20,7 +20,8 @@ const GenDiff = {
 ```javascript
 const RssFeed = {
   techStack: [JS, CodeClimate, Git, Github, npm, CI, _.lodash, axios, on-change],
-  challengingPart: "Understanding the asyncronous nature of Javascript, basics of MVC system and handling errors in a user-friendly way. Big milestone for me",
+  challengingPart: "Understanding the asyncronous nature of Javascript,
+    basics of MVC system and handling errors in a user-friendly way. Big milestone for me",
 }
 ```
 
@@ -29,7 +30,7 @@ const RssFeed = {
 ```javascript
 const irina = {
   code: [Javascript, Typescript, HTML, CSS, Elixir, PostgresQL],
-  tools: [Linux/Ubuntu, React, Node, CI, vercel, Jest, npm],
+  tools: [Linux/Ubuntu, MacOS, React, Node, CI, vercel, Jest, npm, Redux/toolkit, Render, Postman/axios],
   education: { 
     "Frontend Development as Profession on Hexlet online learning platform": [2022, "present"],
     "Bachelor’s Degree on Environmental Engineering, Pskov State University": [2014, 2018],
