@@ -18,6 +18,7 @@ const GenDiff = {
 }
 ```
 <p><em><a href="https://github.com/hikarinakano/frontend-project-11">RssFeed app</a></em></p>
+
 ```javascript
 const RssFeed = {
   techStack: [JS, CodeClimate, Git, Github, npm, CI, _.lodash, axios, on-change, vercel, i18next],
