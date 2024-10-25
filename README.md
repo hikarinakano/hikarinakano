@@ -17,9 +17,10 @@ const GenDiff = {
   challengingPart: "Many of them, but doing the project was a big wictory for me!",
 }
 ```
+<p><em><a href="https://github.com/hikarinakano/frontend-project-11">RssFeed app</a></em></p>
 ```javascript
 const RssFeed = {
-  techStack: [JS, CodeClimate, Git, Github, npm, CI, _.lodash, axios, on-change, vercel],
+  techStack: [JS, CodeClimate, Git, Github, npm, CI, _.lodash, axios, on-change, vercel, i18next],
   challengingPart: "Understanding the asyncronous nature of Javascript,
     basics of MVC system and handling errors in a user-friendly way. Big milestone for me",
 }
