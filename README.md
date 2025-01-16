@@ -27,6 +27,14 @@ const RssFeed = {
 }
 ```
 
+```javascript
+const HexletChat = {
+  techStack: [JS, CodeClimate, Git, Github, npm, CI, Redux/Redux Toolkit, axios, React.js, Bootstrap, i18next, Websockets],
+  challengingPart: "Understanding of initialization processes, how sockets work,
+    how to use Redux in a more efficient and structured way.
+    It was a big and ambitious project and I cannot believe I did it.",
+}
+```
 <h2>Little more about me:</h2>
 
 ```javascript
