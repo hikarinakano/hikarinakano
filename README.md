@@ -41,7 +41,7 @@ const HexletChat = {
 ```javascript
 const irina = {
   code: [Javascript, Typescript, HTML, CSS, Elixir, PostgresQL, JSX],
-  tools: [Linux/Ubuntu, MacOS, React, Node, CI, vercel, Jest, npm, Redux/toolkit, Render, Postman/axios],
+  tools: [Linux/Ubuntu, MacOS, React, Node, CI, vercel, Jest, npm, Redux/toolkit, Render, Postman/axios, Bootstrap, TailwindCSS],
   education: { 
     "Frontend Development as Profession on Hexlet online learning platform": [2022, "present"],
     "Bachelor’s Degree on Environmental Engineering, Pskov State University": [2014, 2018],
