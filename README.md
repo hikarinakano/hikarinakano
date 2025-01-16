@@ -26,6 +26,7 @@ const RssFeed = {
     basics of MVC system and handling errors in a user-friendly way. Big milestone for me",
 }
 ```
+<p><em><a href="https://github.com/hikarinakano/frontend-project-12">Hexlet chat app</a></em></p>
 
 ```javascript
 const HexletChat = {
