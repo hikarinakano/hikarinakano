@@ -43,7 +43,7 @@ const irina = {
   code: [Javascript, Typescript, HTML, CSS, Elixir, PostgresQL, JSX],
   tools: [Linux/Ubuntu, MacOS, React, Node, CI, vercel, Jest, npm, Redux/toolkit, Render, Postman/axios, Bootstrap, TailwindCSS],
   education: { 
-    "Frontend Development as Profession on Hexlet online learning platform": [2022, "present"],
+    "Frontend Development as Profession on Hexlet online learning platform": [2022, 2024],
     "Bachelor’s Degree on Environmental Engineering, Pskov State University": [2014, 2018],
   },
   techCommunities: { participant: "Reclaim the internet with Mozilla", },
